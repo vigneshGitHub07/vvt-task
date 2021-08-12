@@ -1,0 +1,109 @@
+.head{
+    text-align: center;
+    font-weight:  700 !important;
+    font-size: 50px;
+    padding: 0%;
+  
+  }
+  .simple-pricing{
+    background-color: rgb(241, 239, 239);
+    height: 70vh;
+  }
+  .input-group{
+    height: 40px;
+    width: 480px !important;
+  }
+  .form-control{
+    border-top-left-radius: 8px !important;
+    border-bottom-left-radius: 8px !important;
+  }
+  .input-group-text{
+    background-color: rgb(50, 212, 50) !important;
+    color: white !important;
+  }
+  .info{
+    text-align: center;
+    font-size: 13px;
+    color: gray;
+  }
+  .infobtn{
+    text-align: center !important;
+    justify-content: center !important;
+    background-color: rgb(154, 53, 163);
+    border: none;
+    color: white;
+  }
+  .gray{
+    color: rgb(179, 177, 177);
+    font-weight: 300 !important;
+  }
+  .dollarvalue{
+    font-size: 50px;
+  }
+  .card1{
+    margin-top: 50px !important;
+    font-weight: 500;
+    background-color: white;
+    text-align: center;
+    height: 350px;
+    border-radius: 10px !important;
+    line-height: 20px;
+  }
+  .card1 h4{
+    padding-top: 40px !important;
+    
+  }
+  .cards{
+    margin-top: 110px !important;
+    justify-content: center;
+  }
+  .card2{
+    margin-left: 10px;
+    font-weight: 500;
+    background-color: white;
+    text-align: center;
+    height: 350px;
+    border-radius: 10px !important;
+    line-height: 20px;
+  }
+  .blue{
+    color: rgb(73, 73, 236);
+  }
+  .form-check-input{
+    padding-left: 10px !important;
+    margin-left: -12px !important;
+  }
+  .card2 h4{
+    padding-top: 40px !important;
+    
+  }
+  hr {
+    border-bottom:3px dotted #fff !important;
+    width: 100px;
+    /*Rest of stuff here*/
+  }
+  .card3{
+    color: #fff;
+    margin-top: 50px !important;
+    background-color: rgb(134, 134, 243);
+    height: 350px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: left;
+    padding: 30px;
+  }
+  .values{
+    justify-content: center;
+    justify-content: space-between;
+  }
+  .small{
+    font-size: 5px;
+  }
+  .val{
+    font-size: 24px;
+  }
+  .range{
+    justify-content: center;
+    justify-content: space-between;
+  }
+  

@@ -1,0 +1,115 @@
+.backgroundClr{
+  background-image: url(https://static.uacdn.net/production/_next/static/images/goal/boy.svg), url(https://static.uacdn.net/production/_next/static/images/goal/girl.svg), linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(229, 244, 255, 0.44) 100%);
+  background-position:left bottom 20px,  right bottom 20px, center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  width: auto;
+  height: 100vh;
+}
+.gry{
+  background-color: rgb(241, 241, 241);
+}
+.mobiles{
+  background-color: white;
+  border-radius: 20px;
+}
+.blueclr{
+  color: blue;
+  font-size: 23px;
+  font-weight: 500;
+}
+.greenclr{
+  color: rgb(13, 224, 13);
+}
+#dropdown-basic{
+  background-color: white;
+  color: black;
+  border: none;
+  font-size: 20px;
+  font-weight: 400;
+}
+.newAnthem{
+  background: linear-gradient(
+95.84deg
+, rgb(45, 129, 247) 0%, rgb(8, 189, 128) 100%);
+border: none;
+border-radius: 5px;
+font-size: 15px;
+padding-top :5px;
+padding-bottom :5px;
+padding-left: 15px;
+padding-right: 15px;
+color: white;
+}
+.content{
+  justify-content: center;
+  text-align: center;
+}
+.content h1{
+  line-height: 70px;
+  color: rgb(87, 86, 86);
+}
+.subsctipionbtn{
+  background-color: rgb(24, 148, 24);
+  height: 50px;
+  padding: 10px;
+  font-size: larger;
+  font-weight: 500;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+.introbtn{
+  background-color: orange;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 8px;
+  height: auto;
+  padding: 5px;
+}
+.contents{
+  justify-content: center !important;
+  text-align: center !important;
+}
+.details{
+  text-align: left;
+}
+hr{
+  height: 3px;
+  color: aqua;
+}
+#textleft{
+  text-align: right;
+} 
+#textringht{
+  text-align: left;
+}
+t{
+  border:none;
+  border-bottom:3px dotted rgb(13, 224, 13) ;
+  height:1px;
+}
+.footer p {
+  font-size: 12px;
+}
+.footer{
+  text-align: left;
+  margin-top: 50px !important;
+}
+.footerimage{
+  width: 90px ;
+}
+.childfooter{
+  margin-top: 120px;
+  justify-content: center;
+  text-align: center;
+}
+.paybutton{
+  font-size: 18px;
+  height: 40px;
+  background-color: yellowgreen;
+  color: white;
+  border-radius: 15px;
+  border: none;
+}
